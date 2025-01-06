@@ -1,1 +1,1 @@
-# Image--Classification--Pytorc
+# Image--Classification--Pytorch
