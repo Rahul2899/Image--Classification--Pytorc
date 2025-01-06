@@ -106,11 +106,6 @@ def test(dataloader, model, loss_fn):
 
 After training for 50 epochs, the model achieves a test accuracy of ~85%. The results may vary depending on hyperparameters and hardware.
 
-## Visualization
-
-Sample training images:
-
-![Training Images](path/to/saved/visualization.png)
 
 ## Future Improvements
 
